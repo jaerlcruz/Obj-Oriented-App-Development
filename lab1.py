@@ -3,7 +3,7 @@ import random
 
 # Names: Justine Cruz, Weibo Zhang
 # Date: 8/23/2023
-# Desc: Chooses a value from 1-100 and has user guess the number in 6 tries.
+# Desc: Chooses a value from 1-100 and has user guess the number.
 
 
 # Compare user input and value to see if too high/low. Reprompt user if not the right answer
